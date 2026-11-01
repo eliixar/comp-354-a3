@@ -12,5 +12,5 @@ Team 25: simulated release cycle for the MediLink appointment platform.
 ## Links
 - Project board: [[link]](https://github.com/users/eliixar/projects/5)
 - Daily updates: [link, to add later]
-- Definition of Done: DEFINITION_OF_DONE.md (to add)
-- Working agreement: WORKING_AGREEMENT.md (to add)
+- Definition of Done: DEFINITION_OF_DONE.md 
+- Working agreement: WORKING_AGREEMENT.md 
