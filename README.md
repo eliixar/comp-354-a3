@@ -7,7 +7,7 @@ Team 25: simulated release cycle for the MediLink appointment platform.
 | Alexa Rokakis | Engineering Manager / Team Lead |
 | Nikitas Vourtzoumis | Developer 1 |
 | Nicolas Nahas | Developer 2 |
-| [name] | Developer |
+| Zain Yehia | Developer |
 
 ## Links
 - Project board: [[link]](https://github.com/users/eliixar/projects/5)
